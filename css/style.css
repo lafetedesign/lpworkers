@@ -250,6 +250,7 @@
 }
 .service-unit img{
     margin-bottom: 30px;
+    height: 77px;
 }
 .service-item{
     font-size: 21px;
@@ -525,6 +526,9 @@ footer{
     .service-unit{
         width: 100%;
         margin-bottom: 56px;
+    }
+    .service-unit img{
+        height: 67px;
     }
     .service-item{
         font-size: 20px;
